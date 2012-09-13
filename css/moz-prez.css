@@ -1,0 +1,54 @@
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  color: #0a0a0a;
+  background: #154384;
+  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(#d0490d), to(#154384));
+  background: -webkit-radial-gradient(#d0490d, #154384);
+  background: -moz-radial-gradient(#d0490d, #154384);
+  background: -ms-radial-gradient(#d0490d, #154384);
+  background: -o-radial-gradient(#d0490d, #154384);
+  background: radial-gradient(#d0490d, #154384); }
+
+h1 {
+  font-size: 48px;
+  margin: 12px 0 12px; }
+
+h2 {
+  font-size: 40px;
+  margin: 10px 0 10px; }
+
+a {
+  color: #d0490d;
+  font-weight: bold;
+  text-decoration: none; }
+
+.highlight {
+  color: #d0490d; }
+
+#impress .center {
+  background: #bebebe;
+  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(#f0f0f5), to(#bebebe));
+  background: -webkit-radial-gradient(#f0f0f5, #bebebe);
+  background: -moz-radial-gradient(#f0f0f5, #bebebe);
+  background: -ms-radial-gradient(#f0f0f5, #bebebe);
+  background: -o-radial-gradient(#f0f0f5, #bebebe);
+  background: radial-gradient(#f0f0f5, #bebebe);
+  border-radius: 500px;
+  width: 500px;
+  height: 500px;
+  text-align: center; }
+  #impress .center .inner {
+    margin-top: 80px; }
+#impress .page {
+  background-color: #bebebe;
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#f0f0f5), to(#bebebe));
+  background-image: -webkit-linear-gradient(#f0f0f5, #bebebe);
+  background-image: -moz-linear-gradient(#f0f0f5, #bebebe);
+  background-image: -ms-linear-gradient(#f0f0f5, #bebebe);
+  background-image: -o-linear-gradient(#f0f0f5, #bebebe);
+  background-image: linear-gradient(#f0f0f5, #bebebe);
+  display: block;
+  width: 720px;
+  height: 960px;
+  padding: 20px 30px;
+  text-align: center; }
