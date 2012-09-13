@@ -10,11 +10,11 @@ body {
   background: radial-gradient(#d0490d, #154384); }
 
 h1 {
-  font-size: 48px;
+  font-size: 44px;
   margin: 12px 0 12px; }
 
 h2 {
-  font-size: 40px;
+  font-size: 36px;
   margin: 10px 0 10px; }
 
 a {
@@ -38,7 +38,7 @@ a {
   height: 500px;
   text-align: center; }
   #impress .center .inner {
-    margin-top: 80px; }
+    margin-top: 100px; }
 #impress .page {
   background-color: #bebebe;
   background-image: -webkit-gradient(linear, left bottom, left top, from(#f0f0f5), to(#bebebe));
