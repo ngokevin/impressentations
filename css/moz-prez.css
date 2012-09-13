@@ -62,3 +62,15 @@ a {
     height: auto;
     margin: 24px;
     width: 640px; }
+  #impress .page img.medium {
+    display: inline;
+    height: auto;
+    width: 480px; }
+  #impress .page img.small {
+    display: inline;
+    height: auto;
+    width: 320px; }
+  #impress .page img.smaller {
+    display: inline;
+    height: auto;
+    width: 240px; }

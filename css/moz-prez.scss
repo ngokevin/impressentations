@@ -73,5 +73,20 @@ a {
             margin: 24px;
             width: 640px;
         }
+        img.medium {
+            display: inline;
+            height: auto;
+            width: 480px;
+        }
+        img.small {
+            display: inline;
+            height: auto;
+            width: 320px;
+        }
+        img.smaller {
+            display: inline;
+            height: auto;
+            width: 240px;
+        }
     }
 }
