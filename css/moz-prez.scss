@@ -55,6 +55,10 @@ a {
         width: 500px;
         height: 500px;
         text-align: center;
+
+        h1, h2 {
+            font-style: italic;
+        }
         .inner {
             margin-top: 100px;
         }
@@ -87,6 +91,16 @@ a {
             display: inline;
             height: auto;
             width: 240px;
+        }
+        .description {
+            font-style: italic;
+        }
+        ul {
+            margin-top: 48px;
+            text-align: left;
+            li {
+                margin-top: 24px;
+            }
         }
     }
 }

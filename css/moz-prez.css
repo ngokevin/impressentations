@@ -37,6 +37,8 @@ a {
   width: 500px;
   height: 500px;
   text-align: center; }
+  #impress .center h1, #impress .center h2 {
+    font-style: italic; }
   #impress .center .inner {
     margin-top: 100px; }
 #impress .page {
@@ -74,3 +76,10 @@ a {
     display: inline;
     height: auto;
     width: 240px; }
+  #impress .page .description {
+    font-style: italic; }
+  #impress .page ul {
+    margin-top: 48px;
+    text-align: left; }
+    #impress .page ul li {
+      margin-top: 24px; }
