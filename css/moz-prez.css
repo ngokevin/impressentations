@@ -40,6 +40,9 @@ a {
   #impress .center .inner {
     margin-top: 100px; }
 #impress .page {
+  -webkit-box-shadow: 6px 4px 8px #0a0a0a;
+  -moz-box-shadow: 6px 4px 8px #0a0a0a;
+  box-shadow: 6px 4px 8px #0a0a0a;
   background-color: #bebebe;
   background-image: -webkit-gradient(linear, left bottom, left top, from(#f0f0f5), to(#bebebe));
   background-image: -webkit-linear-gradient(#f0f0f5, #bebebe);
@@ -52,3 +55,10 @@ a {
   height: 960px;
   padding: 20px 30px;
   text-align: center; }
+  #impress .page img {
+    -webkit-box-shadow: 6px 4px 8px #0a0a0a;
+    -moz-box-shadow: 6px 4px 8px #0a0a0a;
+    box-shadow: 6px 4px 8px #0a0a0a;
+    height: auto;
+    margin: 24px;
+    width: 640px; }
